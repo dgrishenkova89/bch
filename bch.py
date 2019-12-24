@@ -209,15 +209,15 @@ def decode(primitive_polynomial, received_message, cyclotomic_cosets, logarithmi
     :return: a decoded message.
     """
 
-    def get_error_positions():
+    def get_error_positions(_roots, _power):
         """
         Flips the established roots of
         an error locator polynomial to
         the positions of errors.
         """
         positions = []
-        for root in roots:
-            positions.append((2 ** power - 1 - root) % (2 ** power - 1))
+        for root in _roots:
+            positions.append((2 ** _power - 1 - root) % (2 ** _power - 1))
         return positions
 
     syndromes = get_syndromes(primitive_polynomial, received_message, cyclotomic_cosets,
