@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0756374-2db6-4381-bcf5-2217af43bfc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VKeJ1S6JAJbb2qNfrYdpV027hy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for bch_tests.BchTest">
+    <configuration name="Unittests for bch_tests.BchTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="BCH_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;bch_tests.BchTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for finites_fields_tests.FinateFieldTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="BCH_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;finites_fields_tests.FinateFieldTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for bch_tests.BchTest" />
+        <item itemvalue="Python tests.Unittests for finites_fields_tests.FinateFieldTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0756374-2db6-4381-bcf5-2217af43bfc4" name="Default Changelist" comment="" />
+      <created>1577006137042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577006137042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2477" height="295" key="GridCell.Tab.0.bottom" timestamp="1577182184987">
+      <screen x="-2560" y="0" width="2498" height="1080" />
+    </state>
+    <state width="2477" height="295" key="GridCell.Tab.0.bottom/0.0.1811.1080/-2560.0.2498.1080@-2560.0.2498.1080" timestamp="1577182184987" />
+    <state width="2477" height="295" key="GridCell.Tab.0.center" timestamp="1577182184987">
+      <screen x="-2560" y="0" width="2498" height="1080" />
+    </state>
+    <state width="2477" height="295" key="GridCell.Tab.0.center/0.0.1811.1080/-2560.0.2498.1080@-2560.0.2498.1080" timestamp="1577182184987" />
+    <state width="2477" height="295" key="GridCell.Tab.0.left" timestamp="1577182184986">
+      <screen x="-2560" y="0" width="2498" height="1080" />
+    </state>
+    <state width="2477" height="295" key="GridCell.Tab.0.left/0.0.1811.1080/-2560.0.2498.1080@-2560.0.2498.1080" timestamp="1577182184986" />
+    <state width="2477" height="295" key="GridCell.Tab.0.right" timestamp="1577182184987">
+      <screen x="-2560" y="0" width="2498" height="1080" />
+    </state>
+    <state width="2477" height="295" key="GridCell.Tab.0.right/0.0.1811.1080/-2560.0.2498.1080@-2560.0.2498.1080" timestamp="1577182184987" />
+  </component>
+</project>
